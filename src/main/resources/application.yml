@@ -1,3 +1,9 @@
 server:
   port: 8888
 
+db:
+  host: qrbc.centralus.cloudapp.azure.com
+  port: 5423
+  username: practice
+  password: "*.Practice1234"
+  database: practice
